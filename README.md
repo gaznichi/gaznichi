@@ -3,7 +3,7 @@
 - 👀 I’m interested in cars and history 
 - 🌱 I’m currently learning Golang, Python and Java
 - 👨‍🎓 I'm taking my degree in computer science in PJATK
-- 📫 How to reach me: iamiqbol@gmail.com
+- 📫 How to reach me: ismatzodaiqbol@gmail.com
 
 <!---
 4ashma/4ashma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
