@@ -1,26 +1,23 @@
-# Hi there, I'm Ikbol! 👋
+# Ikbol 
 
-**Backend Developer 💻 | Mechatronics Engineering Student ⚙️ | 3D Design Enthusiast 🖨️**
+**Mechatronics Engineering Student | Backend Developer**
 
-I’m a passionate and curious engineering student driven by technology, innovation, and continuous self-improvement. My journey began in software—I studied computer science for two years and worked as a backend developer, building a strong foundation in programming and problem-solving. Now, I’m expanding my horizons into the mechanical and electronic domains at the Warsaw University of Technology. 
+### Technical Proficiencies
+*   **Software Development:** Golang, Python, Java, C++
+*   **Engineering & Prototyping:** 3D Modeling, 3D Printing, Mechatronic Systems Design
+*   **Core Competencies:** System Integration, Backend Architecture, Algorithmic Problem Solving
 
-My ultimate goal is to build intelligent, efficient machines by blending software architecture with fine machine design and mechanics.
+### Background & Objective
+Prior to my current engineering studies, I studied computer science and worked as a backend developer for two years. This period established my core programming capabilities, which I now apply to physical hardware systems. 
 
-### 🚀 Quick Facts About Me
+I actively experiment with 3D design and prototyping to bridge the gap between digital concepts and physical execution. My overarching objective is to architect innovative mechatronic systems where advanced software drives fine machine design.
 
-- 👨‍💻 **Background:** Backend developer originally from Tajikistan.
-- 👨‍🎓 **Currently:** Pursuing my degree in Mechatronics at the Warsaw University of Technology.
-- 🌱 **Programming Skills:** Proficient in **Golang, Python, Java, and C++**.
-- 🛠️ **Tinkering:** At home, I experiment with 3D design and printing, exploring how digital concepts can take physical form.
-- 👀 **Off-Screen:** I enjoy playing sports and reading literature, which help me stay balanced and inspired.
+### Personal Interests
+Outside of my academic and engineering pursuits, I enjoy sports and reading literature. 
 
-### 🎯 What I'm Building
-I aim to develop innovative mechatronic systems where creativity meets engineering. Whether it's writing clean backend code or designing physical parts for 3D printing, I love the entire process of bringing an idea to life.
-
-### 📫 Let's Connect!
-I’m an open and communicative person, always looking for collaboration. I'm eager to connect with people who share a drive for building and learning new things.
-
-- **Email:** [ismatzodaiqbol@gmail.com](mailto:ismatzodaiqbol@gmail.com)
+### Contact Information
+I am open to professional collaboration, project development, and technical discussions. 
+*   **LinkedIn:** [linkedin.com/in/gaznichi](https://www.linkedin.com/in/gaznichi/)
+*   **Email:** [ismatzodaiqbol@gmail.com](mailto:ismatzodaiqbol@gmail.com)
 
 ---
-⭐️ *Thanks for stopping by my profile!*
