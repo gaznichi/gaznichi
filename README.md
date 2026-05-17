@@ -1,6 +1,8 @@
 # Ikbol 
 
 **Mechatronics Engineering Student | Backend Developer**
+Currently pursuing a Mechatronics degree at Warsaw University of Technology.
+Primarily working with Go, Python, Java, and C++, with a strong focus on blending digital logic, 3D design, and mechanical engineering.
 
 ### Technical Proficiencies
 *   **Software Development:** Golang, Python, Java, C++
